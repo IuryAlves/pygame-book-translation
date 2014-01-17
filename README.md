@@ -1,4 +1,4 @@
-﻿pygame-book-translate Pt-BR
+﻿pygame-book-translation Pt-BR
 ============================
 
 
