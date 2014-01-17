@@ -1,3 +1,5 @@
+![alt text](/imagems/imagem-i.png)
+
 # Para quem é destinado esse livro? 
 
 Quando voce entender, a programação de video games é apenas criar pixels para fazer imagens bonitas aparecerem na tela em resposta as entradas
