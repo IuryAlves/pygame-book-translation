@@ -1,5 +1,7 @@
-pygame-book-translate Pt-BR
+﻿pygame-book-translate Pt-BR
 ============================
+
+
 
 
 Tradução do livro Making games with python e pygame para pt-br
