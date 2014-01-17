@@ -13,7 +13,7 @@ Voce pode encontrar o livro aqui: [http://inventwithpython.com/pygame/](http://i
 
 1. Faça o *fork* deste repositório
 2. Realize a tradução da página desejada.
-4. Caso o arquivo não esteja traduzido ou a sua tradução não esteja em andamento, comente nas *issues* que você irá traduzir para os moderadores adicionarem a label *translating*.
+4. Caso a página  não esteja traduzida ou a sua tradução não esteja em andamento, comente nas *issues* que você irá traduzir para os moderadores adicionarem a label *translating*.
 5. Faça um *Pull Request* para enviar o arquivo traduzido.
 
 
