@@ -4,7 +4,7 @@ pygame-book-translate Pt-BR
 
 Tradução do livro Making games with python e pygame para pt-br
 
-Voce pode encontrar o livro aqui: [http://inventwithpython.com/makinggames.pdf](http://inventwithpython.com/makinggames.pdf/)
+Voce pode encontrar o livro aqui: [http://inventwithpython.com/pygame/](http://inventwithpython.com/pygame/)
 
 
 ## Contribuições
