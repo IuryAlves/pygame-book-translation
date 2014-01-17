@@ -1,4 +1,4 @@
-![alt text](/imagems/imagem-i.png)
+![alt text](/imagens/imagem-i.png)
 
 # Para quem é destinado esse livro? 
 
