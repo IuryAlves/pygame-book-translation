@@ -1,4 +1,4 @@
-* Criando jogos com python e pygame
+# Criando jogos com python e pygame
 
 
 
@@ -7,4 +7,11 @@
 
 
 
-**** por Al Sweigart
+
+
+
+
+
+
+
+#### por Al Sweigart
