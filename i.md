@@ -1,6 +1,6 @@
 # Para quem é destinado esse livro? 
 
-Quando voce começar, a programação de video games é apenas acender pixels para fazer imagens bonitas aparecerem na tela em resposta as entradas
+Quando voce entender, a programação de video games é apenas criar pixels para fazer imagens bonitas aparecerem na tela em resposta as entradas
 do teclado e mouse.
 
 E aqui existem algumas coisas divertidas.
@@ -10,7 +10,7 @@ que você conhece python ou programação em geral.Se voce não sabe programar, 
 Computer Games with Python" em http://inventwithpython.com .Ou voce pode ir direto nesse livro e aprender python no caminho.
 
 Esse livro é para o programador intermediário que aprendeu o que são variáveis e loops, mas agora quer saber, "Como funciona um jogo?"
-Houve uma longa pausa após eu ter aprendido programação, mas eu não sabia como usar essa habilidade para fazer algo legal.Minha esperança
+Houve uma longa pausa após eu ter aprendido a programar, mas eu não sabia como usar essa habilidade para fazer algo legal.Minha esperança
 é que os jogos nesse livro te darão ideias suficientes sobre como programas funcionam para prover uma base para implementar seus própios jogos
 
 Todo o conteúdo desse texto está disponível em formato HTML ou PDF em http://inventwithpython.com/pygame
