@@ -1,31 +1,31 @@
 # Sobre o Livro
 
-Olá! Esse livro irá ensiná-lo como criar jogos para computador com a Framework Pygame (também chamada de biblioteca Pygame) na linguagem de 
-programação Python. Pygame faz com que seja fácil criar programas com gráficos 2D. Ambos Python e a framework Pygame podem ser baixadas
-gratuitamente em http://python.org e http://pygame.org. Tudo o que você precisa é de um computador e esse livro para começar a criar seus 
-próprios jogos.
+Olï¿½! Esse livro irï¿½ ensinï¿½-lo como criar jogos para computador com a Framework Pygame (tambï¿½m chamada de biblioteca Pygame) na linguagem de 
+programaï¿½ï¿½o Python. Pygame faz com que seja fï¿½cil criar programas com grï¿½ficos 2D. Ambos Python e a framework Pygame podem ser baixadas
+gratuitamente em http://python.org e http://pygame.org. Tudo o que vocï¿½ precisa ï¿½ de um computador e esse livro para comeï¿½ar a criar seus 
+prï¿½prios jogos.
 
-Este livro é de programação intermediária. Se você é completamente novo na programação, ainda pode tentar acompanhar com os exemplos de
-código fonte e descobrir como a programação funciona. Entretanto, pode ser mais fácil se você aprender como programar python primeiro.
-"Invent Your Own Computer Games with Python" (em inglês) é um livro que está disponível e totalmente gratuito em http://inventwithpython.com.
-Este livro ensina a programação criando jogos baseados em textos (sem gráficos) para iniciantes, e também possui alguns capítulos usando a 
+Este livro ï¿½ Ã© para programadores intermediÃ¡rios. Se vocï¿½ ï¿½ completamente novo na programaï¿½ï¿½o, ainda pode tentar acompanhar com os exemplos de
+cï¿½digo fonte e descobrir como a programaï¿½ï¿½o funciona. Entretanto, pode ser mais fï¿½cil se vocï¿½ aprender como programar python primeiro.
+"Invent Your Own Computer Games with Python" (em inglï¿½s) ï¿½ um livro que estï¿½ disponï¿½vel e totalmente gratuito em http://inventwithpython.com.
+Este livro ensina a programaï¿½ï¿½o criando jogos baseados em textos (sem grï¿½ficos) para iniciantes, e tambï¿½m possui alguns capï¿½tulos usando a 
 biblioteca Pygame.
 
-Entretanto, se você já sabe como programar em Python (ou até mesmo outra linguagem, até porque Python é fácil de se aprender) e quer comçar
-a criar jogos além de apenas textos, então este é o livro perfeito para você. O livro começa com uma pequena introdução para mostrar como a 
-biblioteca Pygame funciona e as funcionalidades que ele nos fornece. Depois, ele fornece os códigos-fonte completos para algum jogo atual e 
-explica como funciona, deste modo você consegue entender como os jogos atuais fazem uso da Pygame.
+Entretanto, se vocï¿½ jï¿½ sabe como programar em Python (ou atï¿½ mesmo outra linguagem, atï¿½ porque Python ï¿½ fï¿½cil de se aprender) e quer comï¿½ar
+a criar jogos alï¿½m de apenas textos, entï¿½o este ï¿½ o livro perfeito para vocï¿½. O livro comeï¿½a com uma pequena introduï¿½ï¿½o para mostrar como a 
+biblioteca Pygame funciona e as funcionalidades que ele nos fornece. Depois, ele fornece os cï¿½digos-fonte completos para algum jogo atual e 
+explica como funciona, deste modo vocï¿½ consegue entender como os jogos atuais fazem uso da Pygame.
 
-Esse livro contém sete diferentes clones de jogos famosos que você provavelmente já deve ter jogado. Os jogos são muito mais divertidos e
-interativos do que os baseados em texto do livro "Invent With Python", mas ainda são relativamente curtos. Todos os programas possuem menos 
-de 600 linhas no total. Isso é bem pequeno se você considerar aqueles jogos profissionais que você baixa ou compra em uma loja, que podem
+Esse livro contï¿½m sete diferentes clones de jogos famosos que vocï¿½ provavelmente jï¿½ deve ter jogado. Os jogos sï¿½o muito mais divertidos e
+interativos do que os baseados em texto do livro "Invent With Python", mas ainda sï¿½o relativamente curtos. Todos os programas possuem menos 
+de 600 linhas no total. Isso ï¿½ bem pequeno se vocï¿½ considerar aqueles jogos profissionais que vocï¿½ baixa ou compra em uma loja, que podem
 ter centenas de milhares de linhas no total. Estes jogos requerem um completo time de programadores e artistas trabalhando uns com os outros
-por meses ou anos para criá-los.
+por meses ou anos para criï¿½-los.
 
-O website para esse livro é http://inventwithpython.com/pygame. Todos os programas e arquivos mencionados neste livro podem ser baixados 
-gratuitamente neste site, inclusive o livro. Programar é uma ótima e criativa atividade, por isso, por favor compartilhe esse livro o mais
-amplamente possível. A licença "Creative Commons" (em inglês) a qual esse livro foi lançado, lhe dá o direito de copiar e duplicar esse livro
-tantas vezes que você quiser (contanto que você não cobre por isso).
+O website para esse livro ï¿½ http://inventwithpython.com/pygame. Todos os programas e arquivos mencionados neste livro podem ser baixados 
+gratuitamente neste site, inclusive o livro. Programar ï¿½ uma ï¿½tima e criativa atividade, por isso, por favor compartilhe esse livro o mais
+amplamente possï¿½vel. A licenï¿½a "Creative Commons" (em inglï¿½s) a qual esse livro foi lanï¿½ado, lhe dï¿½ o direito de copiar e duplicar esse livro
+tantas vezes que vocï¿½ quiser (contanto que vocï¿½ nï¿½o cobre por isso).
 
-Se você em algum momento tiver perguntas sobre como esses programas funcionam, sinta-se livro para me enviar um e-mail em 
+Se vocï¿½ em algum momento tiver perguntas sobre como esses programas funcionam, sinta-se livro para me enviar um e-mail em 
 al@inventwithpython.com.
