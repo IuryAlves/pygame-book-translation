@@ -28,6 +28,7 @@ Voce pode encontrar o livro aqui: [http://inventwithpython.com/pygame/](http://i
 
 ### Algumas recomendações
 
+- Usem markdown , link : [http://daringfireball.net/projects/markdown/](http://daringfireball.net/projects/markdown/)
 - Favor não traduzir termos técnicos.
 - Procure traduzir uma página de cada vez
 - Utilize notas de rodapé para termos técnicos com o seu respectivo link externo para mais informações.
