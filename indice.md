@@ -1,8 +1,11 @@
 ﻿# Índice
 
--+Para quem esse livro é destinado?......................................................................................i
--+Sobre o Livro.........................................................................................................ii
--+Capítulo 1 - Instalando o Python e o Pygame............................................................................1
+Para quem esse livro é destinado?......................................................................................i
+
+Sobre o Livro.........................................................................................................ii
+
+Capítulo 1 - Instalando o Python e o Pygame............................................................................1
+
 + O que Você Deve Saber Antes de Começar...............................................................................1
 + Baixando e Instalando o Python.......................................................................................1
 + Instruções para Windows..............................................................................................1
@@ -17,7 +20,8 @@
 + Quebra automática de Texto Nesse Livro...............................................................................5
 + Checando Seu Código Online...........................................................................................6
 + Mais Links Informativos em http://invpy.com .........................................................................6
--+Capítulo 2 - Noções Básicas de Pygame..................................................................................7
+
+Capítulo 2 - Noções Básicas de Pygame..................................................................................7
 + GUI vs. CLI..........................................................................................................7
 + Código-fonte para Hello World com Pygame.............................................................................7
 + Configurando um Progama do Pygame....................................................................................8
@@ -41,7 +45,8 @@
 + Anti-Aliasing															30
 + Reprodução de Sons														31
 + Sumário																32
--+Capítulo 3 - Jogo da Memória														33
+
+Capítulo 3 - Jogo da Memória														33
 + Como Jogar o Jogo da Memória													33
 + Loops for Aninhados														33
 + Código-fonte do Jogo da Memória													34
@@ -86,7 +91,8 @@
 + Por que se Preocupar em ter uma Função main()?											69
 + Por que se Preocupar com Legibilidade?												70
 + Resumo, e uma sugestão de Hacking												74
--+Capítulo 4 - Slide Puzzle														77
+
+Capítulo 4 - Slide Puzzle														77
 + Como Jogar Slide Puzzle														77
 + Código-fonte para o Slide Puzzle												77
 + Segundo Verso, Igual ao Primeiro												85
