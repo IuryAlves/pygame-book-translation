@@ -1,10 +1,10 @@
 ﻿# Índice
 
-1) Para quem esse livro é destinado?...................................................................................i
+Para quem esse livro é destinado?......................................................................................i
 
-2) Sobre o Livro......................................................................................................ii
+Sobre o Livro.........................................................................................................ii
 
-3) Capítulo 1 - Instalando o Python e o Pygame.........................................................................1
+Capítulo 1 - Instalando o Python e o Pygame............................................................................1
 + O que Você Deve Saber Antes de Começar...............................................................................1
 + Baixando e Instalando o Python.......................................................................................1
 + Instruções para Windows..............................................................................................1
@@ -20,7 +20,7 @@
 + Checando Seu Código Online...........................................................................................6
 + Mais Links Informativos em http://invpy.com..........................................................................6
 
-4) Capítulo 2 - Noções Básicas de Pygame...............................................................................7
+Capítulo 2 - Noções Básicas de Pygame..................................................................................7
 + GUI vs. CLI..........................................................................................................7
 + Código-fonte para Hello World com Pygame.............................................................................7
 + Configurando um Progama do Pygame....................................................................................8
@@ -45,7 +45,7 @@
 + Reprodução de Sons														31
 + Sumário																32
 
-5) Capítulo 3 - Jogo da Memória														33
+Capítulo 3 - Jogo da Memória														33
 + Como Jogar o Jogo da Memória													33
 + Loops for Aninhados														33
 + Código-fonte do Jogo da Memória													34
@@ -91,7 +91,7 @@
 + Por que se Preocupar com Legibilidade?												70
 + Resumo, e uma sugestão de Hacking												74
 
-6) Capítulo 4 - Slide Puzzle														77
+Capítulo 4 - Slide Puzzle														77
 + Como Jogar Slide Puzzle														77
 + Código-fonte para o Slide Puzzle												77
 + Segundo Verso, Igual ao Primeiro												85
