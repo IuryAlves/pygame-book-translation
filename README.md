@@ -14,11 +14,12 @@ Voce pode encontrar o livro aqui: [http://inventwithpython.com/pygame/](http://i
 ### Guia para contribuir
 
 1. Faça o *fork* deste repositório
-2. Realize a tradução do capítulo desejado.
-3. O as pagínas do capítulo devem estar em uma pasta com o nome do capítulo.
-4. Mantenham uma sequencia na tradução, exemplo : se a capítulo 1 já foi ou está sendo traduzido, traduza a capítulo seguinte.
-5. Caso o capítulo  não esteja traduzido ou a sua tradução não esteja em andamento, comente nas *issues* que você irá traduzir para os moderadores adicionarem a label *translating*.
-6. Faça um *Pull Request* para enviar o arquivo traduzido.
+2. Realize a tradução do página desejada.
+3. A tradução do livro será organizada em pastas contendo contendo os capítulos e suas respectivas imagens.
+4. o nome das imagens deve ser no seguinte formato : imagem-nomedapagina.png
+5. Mantenham uma sequencia na tradução, exemplo : se a capítulo 1 já foi ou está sendo traduzido, traduza a capítulo seguinte.
+6. Caso o capítulo  não esteja traduzido ou a sua tradução não esteja em andamento, comente nas *issues* que você irá traduzir para os moderadores adicionarem a label *translating*.
+7. Faça um *Pull Request* para enviar o arquivo traduzido.
 
 
 ### Entendendo as labels
