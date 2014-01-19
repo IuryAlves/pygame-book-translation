@@ -3,7 +3,7 @@
 Se seu sistema operacional é Ubuntu ou Linux,inicie o IDLE abrindo uma janela do terminal e digite "idle3" e pressione Enter.Você também pode
 clicar em aplicações no topo da tela e selecionar Programação,e depois IDLE 3.
 
-![alt text](/imagens/imagem-3.png)
+![alt text](imagens/imagem-3.png)
 
 A janela que aparecer quando você executar o IDLE é chamada de interaactive shell. Um shell é um programa que permite que você digite instru-
 ções em seu computador.O shell do Python  permite que você digite instruções em Python,e o shell envia essas instruções para o interpretador
