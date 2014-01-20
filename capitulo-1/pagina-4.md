@@ -18,7 +18,7 @@ No geral,você deve ler esses capítulos em ordem.Existem muitos conceitos que s
 detalhes no primeiro jogo que aparecem.Mas se aqui tem algum jogo que você achou interessante.vá em frente e pule para o próximo capítulo.Você
 sempre pode ler o capítulo anterior mais tarde se você se antecipou.
 
-#### Os programas em destaque
+#### Os programas apresentados
 
 Cada capítulo foca em um único jogo e explica como as diferentes partes do código funcionam.
 É muito util copiar esses programas digitando linha por linha desse livro.
