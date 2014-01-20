@@ -16,7 +16,7 @@ Capítulo 1 - Instalando o Python e o Pygame - Pág. 1
 + Como Usar Esse Livro - Pág. 4
 + Os Programas Apresentados - Pág. 4
 + Baixando Arquivos Gráficos e de Som - Pág. 4
-+ Número de Lihas e Espaços - Pág. 4
++ Número de Linhas e Espaços - Pág. 4
 + Quebra automática de Texto Nesse Livro - Pág. 5
 + Checando Seu Código Online - Pág. 6
 + Mais Links Informativos em http://invpy.com - Pág. 6
@@ -100,8 +100,8 @@ Capítulo 4 - Slide Puzzle - Pág. 77
 + Sendo Esperto Usando Códigos Idiotas - Pág. 87
 + O Loop do Jogo Principal - Pág. 88
 + Clicando nos Botões - Pág. 89
-+ Deslizando Ladrilhos com o Mouse - Pág. 90
-+ Deslizando Ladrilhos com o Teclado - Pág. 90
++ Deslizando tiles com o Mouse - Pág. 90
++ Deslizando tiles com o Teclado - Pág. 90
 + Truque "Equal To One Of" com o Operador in - Pág. 91
 + WASD e Teclas de Seta - Pág. 91
 + Realmente fazendo o Azulejo Deslizar - Pág. 92
@@ -112,14 +112,14 @@ Capítulo 4 - Slide Puzzle - Pág. 77
 + Fazendo um Movimento por meio da Atualização da Estrutura de Dados do Quadro - Pág. 94
 + Quando NÃO Usar uma Asserção - Pág. 95
 + Obtendo um não tão aleatório Movimento - Pág. 96
-+ Convertendo as Coordenadas dos Azulejos para Coordenadas de Pixel - Pág. 97
++ Convertendo as Coordenadas dos tiles para Coordenadas de Pixel - Pág. 97
 + Convertendo de Coordenadas de Pixel para Coordenadas do Quadro - Pág. 97
-+ Desenhando um Azulejo - Pág. 97
++ Desenhando um tile - Pág. 97
 + Fazendo o Texto Aparecer na Tela - Pág. 98
 + Desenhando o Quadro - Pág. 99
 + Desenhando a Borda do Quadro - Pág. 99
 + Desenhando os Botões - Pág. 100
-+ Animando os Deslizes dos Azulejos - Pág. 100
++ Animando os Deslizes dos tiles - Pág. 100
 + O Método de Superfície copy() - Pág. 101
 + Criando um Novo Quebra-Cabeça - Pág. 103
 + Animando o Reset do Quadro - Pág. 104
