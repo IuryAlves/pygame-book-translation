@@ -4,7 +4,7 @@ capítulo 2 - Noções básicas de Pygame
 # Capítulo 2 - Noções básicas de Pygame
 
 Do mesmo jeito que o Python vem com muitos módulos como random,math, ou time que fornece funções adicionais para seus programas, o framework do
-Pygame inclui muitos módulos com funções para desenhar gráficos, tocar músicas, usar o input do mouse, e outras coisas.
+Pygame inclui  módulos com funções para desenhar gráficos, tocar músicas, usar o input do mouse, e outras coisas.
 
 Esse capítulo irá cobrir os módulos basicos e funções que o Pygame fornece e assume que você já sabe o básico de programação em Python.Se você
 tem problemas com algum conceito de programação, você pode ler o livro "Invent Your Own Computer Games with Python" online em http://invpy.com/book.
@@ -12,7 +12,7 @@ Esse livro tem como foco os iniciantes em programação.
 
 O livro "Invent with Python" também possui alguns capítulos falando sobre o Pygame.Você poder ler em http://invpy.com/chap17.
 
-Uma vez que você aprende mais sobre o Pygame, vocçe pode ver outros módulos que o Pygame fornece na documentação online em http://pygame.org/docs.
+Uma vez que você aprende mais sobre o Pygame, voce pode ver outros módulos que o Pygame fornece na documentação online em http://pygame.org/docs.
 
 #### GUI vcs. CLI
 
