@@ -28,21 +28,21 @@ Lembre-se, de não digitar os números ou pontos que aparecem no inicio de cada 
 
 Quando você executar esse programa, uma janela preta como essa irá aparecer:
 
-					![alt text](imagens/imagem-8.png)
+![alt text](imagens/imagem-8.png)
 
 Uhul! Você cabou de criar o jogo mais tediante do mundo! É apenas uma janela vazia com "Olá Mundo!" no topo da janela( que é chamado de 
 barra de título, que contém o texto de caption).Mas criar uma janela é o primeiro passo para fazer jogos gráficos.Quando voce clicar no botão
 X no canto da janela, o programa iá encerrar e a janela desaparecer.
 
 Chamando a função print() para fazer o texto aparecer na janela não funcionará porque print() é uma função para programas em CLI.O mesmo para
-a função input() para receber entradas do teclado do usuário.Pygame utiliza outras funções para entrada e saída que são explicadas nesse capí
-tulo.Por enquanto, vamos ver oque cada linha no nosso programa "Olá Mundo!"  detalhadamente.
+a função input() para receber entradas do teclado do usuário.Pygame utiliza outras funções para entrada e saída que são explicadas nesse capítulo.Por enquanto, vamos ver cada linha no nosso programa "Olá Mundo!" detalhadamente.
 
 #### Configurando um programa em Pygame
 
-As primeiras poucas linhas de código no nosso programa Olá Mundo são as linhas que iniciarão praticamente oque todo programa em Pygame utiliza
+As primeiras poucas linhas de código do nosso programa Olá Mundo são as linhas que iniciarão praticamente oque todo programa em Pygame utiliza
 
 	1. import pygame, sys
+	2. 
 > Mande questões por E-mail para o autor : al@inventwithpython.com
 
 
