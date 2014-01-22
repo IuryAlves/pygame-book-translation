@@ -30,7 +30,7 @@ Capítulo 2 - Noções Básicas de Pygame - Pág. 7
 + O Evento QUIT e a Função pygame.quit() - Pág. 12
 + Coordenadas do Pixel - Pág. 13
 + Um lembrete sobre Funções, Métodos, Funções Construtoras, e Funções em Módulos (e a Diferença entre eles) - Pág. 14
-+ Objetos de Superfície e a Janela - Pág. 15
++ Objetos Surface e a Janela - Pág. 15
 + Cores - Pág. 16
 + Cores Transparentes - Pág. 17
 + Objetos pygame.Color - Pág. 18
@@ -56,7 +56,7 @@ Capítulo 3 - Jogo da Memória - Pág. 33
 + Dizendo Se um Número é Par ou Ímpar - Pág. 44
 + Falha Precoce e Falha Frequente! - Pág. 44
 + Deixando o Código-fonte Bonito - Pág. 45
-+ Usando Variáveis Constantes ao invés de Strings - Pág. 46
++ Usando Constantes ao invés de Strings - Pág. 46
 + Certificando-se que Nós Temos Ícones o suficiente - Pág. 47
 + Tuplas vs. Listas, Imutáveis vs. Mutáveis - Pág. 47
 + Tuplas de Um Item Precisam de Uma Vírgula à Direita - Pág. 48
