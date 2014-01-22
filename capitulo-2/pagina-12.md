@@ -26,7 +26,7 @@ Se o objeto Event é um quit event, então as funções  `pygame.quit()` e `sys.
 `sys.exit()` para encerrar seu programa.Normalmente realmente não importa como o Python fecha quando um programa termina.Mas existe um bug no
 IDLE que provoca que ele travese um programa com Pygame encerrar antes que pygame.quit() for chamado.
 
-Desde que nós temos nenhuma instrução `if` que executa código para outros tipos de objeto Event, não existe código que manipula os 
+Desde que nós não temos nenhuma instrução `if` que executa código para outros tipos de objeto Event, não existe código que manipula os 
 eventos quando o usuário clica com o mouse, pressiona alguma tecla, ou provoque que qualquer outro tipo de objetos Event seja criado.O 
 usuário pode fazer coisas para criar esses objetos Event, mas isso não modificará em nada o programa porque o programa não tem nenhum 
 tipo de código para manipulação de eventos.Após o loop `for` na linha 8 completar a manipulação de todos os objetos Event que retornaram de 
