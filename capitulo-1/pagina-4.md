@@ -25,6 +25,6 @@ Enquanto você pode apenas digitar o código que você ler nesse livro,você ter
 
 #### Números de linha e espaços
 
-Quando escrever o código por você mesmo,não digite os números de linha que aparecem no início de cada linha.Por exemplo, se você ver nesse livro:
+Quando escrever o código por você mesmo, não digite os números de linha que aparecem no início de cada linha.Por exemplo, se você ver nesse livro:
 
 > Mande dúvidas por E-mail para o autor: al@inventwithpython.com
