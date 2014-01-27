@@ -32,6 +32,6 @@ as funções de desenho do Pygame.
 O Pygame possui duas maneiras de representar áreas retangulares (do mesmo jeito que existem duas maneira de representar cores).O primeiro é uma tupla
 de quatro inteiros:
 
-1. A coordenada no topo do canto esquerdo.
+1. A coordenada X no topo do canto esquerdo.
 
 > Mande questões por E-mail para o autor : al@inventwithpython.com
