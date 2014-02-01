@@ -6,7 +6,7 @@
 
 #### Objetos pygame.Color
 
-Você precisa saber como representar uma cor, porque as funções de desenho do Pygame precisam de uma maneira de saber que cor vc quer desenhar.Uma tupla
+Você precisa saber como representar uma cor, porque as funções de desenho do Pygame precisam de uma maneira de saber que cor você  quer desenhar.Uma tupla
 de três ou quatro inteiros é uma maneira.A outra maneira é usando o objeto `pygame.Color()`.Você pode criar objetos Color chamando a função construtora
 `pygame.Color()` e passando três ou quatro inteiros.Você pode guardar esse objeto Color em variáveis do mesmo jeito que você guarda tuplas em variáveis.
 Tente digitar o seguinte código no shell interativo:
