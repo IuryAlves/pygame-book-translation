@@ -1,41 +1,80 @@
 20 http://inventwithpython.com/pygame
 
-Nome do atributo         Descrição
----------------------------------------------------------------------------------------------
 
-myRect.left              O valor inteiro da coordenada X do lado esquerdo do retângulo.
-
-myRect.right             O valor inteiro da coordenada X do lado direito do retângulo.
-
-myRect.top               O valor inteiro da coordenada Y do lado de cima do retângulo.
-
-myRect.bottom            O valor inteiro da coordenada Y do lado de baixo do retângulo.
-
-myRect.centerx           O valor inteiro da coordenada X do centro do retângulo.
-
-myRect.centery           O valor inteiro da coordenada Y di centri do retângulo.
-
-myRect.width             O valor inteiro da largura do retângulo.
-
-myRect.height            O valor inteiro da altura do retângulo.
-
-myRect.size              Uma tupla de dois inteiros: (largura, altura).
-
-myRect.topleft           Uma tuppla de dois inteiros: (esquerda, cima).
-
-myRect.topright          Uma tupla de dois inteiros: (direita, cima).
-
-myRect.bottomleft        Uma tupla de dois inteiros: (esquerda, baixo).
-
-myRect.bottomright       Uma tupla de dois inteiros: (direita, baixo).
-
-myRect.midleft           Uma tupla de dois inteiros: (esquerda, centro).
-
-myRect.midright          Uma tupla de dois inteiros: (direita, centro).
-
-myRect.midtop            Uma tupla de dois inteiros: (centerx, cima).
-
-myRect.midbottom         Uma tupla de dois inteiros: (centerx, baixo).
+<table>
+	<tr>
+		<td>Nome do atributo</td>
+		<td>Descrição</td>
+	</tr>
+	<tr>
+	<td>myRect.left</td>
+	<td>O valor inteiro da coordenada X do lado esquerdo do retângulo</td>
+	</tr>
+	<tr>
+	<td>myRect.right </td>
+	<td>O valor inteiro da coordenada X do lado direito do retângulo</td>
+	</tr>
+	<tr>
+	<td>myRect.top</td>
+	<td>O valor inteiro da coordenada Y do lado de cima do retângulo</td>
+	</tr>
+	<tr>
+	<td>myRect.bottom</td>
+	<td>O valor inteiro da coordenada Y do lado de baixo do retângulo</td>
+	</tr>
+	<tr>
+	<td>myRect.centerx</td>
+	<td>O valor inteiro da coordenada X do centro do retângulo</td>
+	</tr>
+	<tr>
+	<td>myRect.centery</td>
+	<td>O valor inteiro da coordenada Y di centri do retângulo</td>
+	</tr>
+	<tr>
+	<td>myRect.width</td>
+	<td>O valor inteiro da largura do retângulo</td>
+	</tr>
+	<tr>
+	<td>myRect.height</td>
+	<td>O valor inteiro da altura do retângulo</td>
+	</tr>
+	<tr>
+	<td>myRect.size</td>
+	<td>Uma tupla de dois inteiros: (largura, altura)</td>
+	</tr>
+	<tr>
+	<td>myRect.topleft</td>
+	<td>Uma tuppla de dois inteiros: (esquerda, cima)</td>
+	</tr>
+	<tr>
+	<td>myRect.topright</td>
+	<td>Uma tupla de dois inteiros: (direita, cima)</td>
+	</tr>
+	<tr>
+	<td>myRect.bottomleft</td>
+	<td>Uma tupla de dois inteiros: (esquerda, baixo)</td>
+	</tr>
+	<tr>
+	<td>myRect.bottomright</td>
+	<td>Uma tupla de dois inteiros: (direita, baixo)</td>
+	</tr>
+	<tr>
+	<td>myRect.midleft</td>
+	<td> Uma tupla de dois inteiros: (esquerda, centro)</td>
+	</tr>
+	<tr>
+	<td>myRect.midright</td>
+	<td>Uma tupla de dois inteiros: (direita, centro)</td>
+	</tr>
+	<tr>
+	<td>myRect.midtop</td>
+	<td>Uma tupla de dois inteiros: (centerx, cima)</td>
+	</tr>
+	<tr>
+	<td>myRect.midbottom</td>
+	<td>Uma tupla de dois inteiros: (centerx, baixo)</td>
+	</tr>
+</table>
 
 
 #### Funções primitivas de desenho
