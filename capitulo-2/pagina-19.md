@@ -19,7 +19,8 @@ X da ponta direita de um objeto pygame.Rect que guardamos na variável spamRect,
 	>>> spamRect.right
 	210
 
-O objeto Rect calcula automaticamente se a ponta esquerda na coordenada  *falta terminar * 
+O objeto Rect calcula automaticamente que se a extremidade direita está na coordenada X de valor 10 e o retângulo tem 200 pixels de largura,então a 
+margem direita deve estar na coordenada X 210.Se você renomear o atributo right, todos os outros atributos serão automaticamente recalculados:
 
 
 	>>> spamRect.right = 350
