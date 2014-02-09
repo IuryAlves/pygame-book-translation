@@ -5,7 +5,7 @@ Capítulo 2 - Noções básicas de Pygame 19
 4. Então a altura (em pixels) do retângulo.
 
 O segundo jeito é usando o objeto pygame.Rect, que nós iremos chamar de objetos Rect.Por exemplo, o código abaixo cria um objeto Rect com o canto
-superior esquerdo em (10, 20), isso é 200 pixels de largura e 300 pixels de altura:
+superior esquerdo em (10, 20), e com 200 pixels de largura e 300 pixels de altura:
 
 	>>> import pygame
 	>>> spamRect = pygame.Rect(10, 20, 200, 300)
@@ -27,5 +27,4 @@ margem direita deve estar na coordenada X 210.Se você renomear o atributo right
 	>>> spamRect.left
 	150
 
-Aqui está uma lista de todos os atributos  que o objeto pygame.Rect fornece( em nosso exemplo, a variável onde o objeto Rect foi guardado é chamada de
-myRect):
+Aqui está uma lista de todos os atributos  que o objeto pygame.Rect fornece( em nosso exemplo, a variável onde o objeto Rect foi guardado é chamada de myRect):

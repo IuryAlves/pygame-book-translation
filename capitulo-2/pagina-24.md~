@@ -1,0 +1,8 @@
+24 http?//inventwithpython.com/pygame
+
+ainda podem ser chamadas, mas imagens como PNG ou JPG não podem ser desenhadas com o método `blit()`.(O método `blit` será explicado depois).
+
+Se você quer saber se um objeto Surface está bloqueado, o método `get_locked()` irá retornar `True` se ele está bloqueado e `False` se não.
+
+O objeto PixelArray que é retornado por `pygame.PixelArray()` pode ter pixels indivíduais alterados acessando eles com dois indexes.Por exemplo, na linha 28, `pixObj[480][380] = BLACK` irá alterar o pixel na coordenada X 480 e Y 380 para preto(lembre-se que a variável BLACK guarda a tupla (0, 0, 0) ).
+
