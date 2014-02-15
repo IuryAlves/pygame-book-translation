@@ -1,4 +1,4 @@
-30 http://inventwithpython	
+30 http://inventwithpython.com
 
 4. Ajuste a posição do objeto Rect mudando um de seus atríbutos.Na linha 15, nós configuramos o centro do objeto Rect para ser em 200, 150.
 5. Copie o objeto Surface com o texto para o objeto Surface retornado por `pygame.display.set_mode()` (linha 19).
@@ -13,7 +13,7 @@ Anti-aliasing é uma técnica gráfica para fazer textos e formas menos quadrada
 
 Se você der um zoom em uma linha com anti-aliasing e uma linha sem anti-aliasing:
 
-![](imagens/imagem-29.png)
+![](imagens/imagem-30.png)
 
 Para fazer o texto do pygame usar anti-aliasing, apenas passe `True` como segundo parâmetro do meétodo `render()`.As funções `pygame.draw.aaline()` e `pygame.draw.aalines` possuem os mesmos parâmetro da função `pygame.draw.line()` e
 
