@@ -2,7 +2,7 @@ Capítulo 2 - Noções básicas de pygame 27
 
     47.     fpsClock.tick(FPS)
 
-Veja o animado gato!Esse programa será um sucesso comercial bem maior que que o meu jogo "Olhe para essa rocha 2: Uma rocha diferente".
+Veja o gato sendo animado !Esse programa será um sucesso comercial bem maior que que o meu jogo "Olhe para essa rocha 2: Uma rocha diferente".
 
 #### Frames Por Segundo e Objetos pygame.time.Clock
 
@@ -14,7 +14,7 @@ Um objeto pygame.time.Clock pode nos ajudar a ter certeza que o nosso programa e
 
 O método `tick()`  do objeto `Clock` deve ser chamado bem perto do fim do loop do jogo , após a chamada para `pygame.display.update()`.O tamanho da pausa é calculado baseado em o quão longo foi a ultima chamada para o método `tick()`, que deve ter sido colocado no fim da iteração do loop anterior.(A primeira vez que o método `tick()` é chamado, ele não realmente pausa o jogo.)No programa de animação, ele é executado na linha 47 como a ultima instrução do loop do jogo.
 
-Tudo o que você precisa saber é que você deve chamar o método `tick()` apenas uma vez por iteração no fim da iteração.Usualmente é logo após a chamada para `pygame.display.update()`.
+Tudo o que você precisa saber é que você deve chamar o método `tick()` apenas uma vez por iteração no fim da iteraçã .Usualmente é logo após a chamada para `pygame.display.update()`.
 
     47. fpsClock.tick(FPS)
     
