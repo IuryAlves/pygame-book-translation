@@ -2,7 +2,7 @@ Capítulo 2 - Noções básicas de pygame 29
 
 para a função `pygame.draw.line()` e calcular todas as coordenadas XY, e provavelmente não ficaria tão bom.
 
-![](imagens/imagem-29)
+![](imagens/imagem-29.png)
 
 A mensagem acima deve realizar 40 chamadas para a função `pygame.draw.line()`.Ao invés disso, o Pygame fornece muitas funções simples para lidar com fontes e textos.Aqui está um simples programa usando as funções de desenho do pygame.Digite no editor de textos IDLE's e salve como fonttext.py:
 
