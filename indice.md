@@ -123,3 +123,42 @@ Capítulo 4 - Slide Puzzle - Pág. 77
 + O Método de Superfície copy() - Pág. 101
 + Criando um Novo Quebra-Cabeça - Pág. 103
 + Animando o Reset do Quadro - Pág. 104
++ Time vs. ?
++ Ninguem se importa com alguns bytes
++ Ninguem se importa com alguns milhões de Nanosegundos
++ Sumário
+Capítulo 5 - Simulate? 
++ Como jogar Simulate?
++ Código fonte do Simulate?
++ The Usual starting stuff? 
++ Configurando os botões
++ A função main()
++ Algumas variáveis locais usadas nesse programa
++ Desenhando o quadro e tratando inputs
++ Verificando cliques do Mouse
++ Verificando o pressionamento do teclado
++ Os dois estados do loop do jogo
++ Identificando se o jogador apertou os botões certos
++ Epoch Time?
++ Desenhando o quadro na tela
++ A mesma velha função terminate()
++ Reusando as constantes
++ Animando o botão flash
++ Desenhando os botões
++ Animando a troca do fundo
++ A animação de game over
++ Convertendo coordenadas de pixel para botões
++ Explícito é melhor que Implícito
+Capítulo 6 - Wormy
++ Como jogar Wormy
++ Código fonte do Wormy
++ O grid
++ O código de inicialização
++ A função main()
++ Uma função separada runGame()
++ Tratando o Event loop
++ Detecção de colisão
++ Detectando colisões com a maçã
++ Movendo a minhoca
++ O metódo insert() da classe List
+
