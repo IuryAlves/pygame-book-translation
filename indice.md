@@ -123,42 +123,78 @@ Capítulo 4 - Slide Puzzle - Pág. 77
 + O Método de Superfície copy() - Pág. 101
 + Criando um Novo Quebra-Cabeça - Pág. 103
 + Animando o Reset do Quadro - Pág. 104
-+ Time vs. ?
-+ Ninguem se importa com alguns bytes
-+ Ninguem se importa com alguns milhões de Nanosegundos
-+ Sumário
-Capítulo 5 - Simulate? 
-+ Como jogar Simulate?
-+ Código fonte do Simulate?
-+ The Usual starting stuff? 
-+ Configurando os botões
-+ A função main()
-+ Algumas variáveis locais usadas nesse programa
-+ Desenhando o quadro e tratando inputs
-+ Verificando cliques do Mouse
-+ Verificando o pressionamento do teclado
-+ Os dois estados do loop do jogo
-+ Identificando se o jogador apertou os botões certos
-+ Epoch Time?
-+ Desenhando o quadro na tela
-+ A mesma velha função terminate()
-+ Reusando as constantes
-+ Animando o botão flash
-+ Desenhando os botões
-+ Animando a troca do fundo
-+ A animação de game over
-+ Convertendo coordenadas de pixel para botões
-+ Explícito é melhor que Implícito
-Capítulo 6 - Wormy
-+ Como jogar Wormy
-+ Código fonte do Wormy
-+ O grid
-+ O código de inicialização
-+ A função main()
-+ Uma função separada runGame()
-+ Tratando o Event loop
-+ Detecção de colisão
-+ Detectando colisões com a maçã
-+ Movendo a minhoca
-+ O metódo insert() da classe List
++ Tempo vs. tradeoffs de memória - Pág. 105
++ Ninguem se importa com alguns bytes - Pág. 106
++ Ninguem se importa com alguns milhões de Nanosegundos - Pág. 107
++ Sumário - Pág. 107
+Capítulo 5 - Simulate - Pág. 108 
++ Como jogar Simulate  - Pág. 108
++ Código fonte do Simulate  - Pág. 108
++ O conteúdo inicial - Pág. 114
++ Configurando os botões - Pág. 115
++ A função main() - Pág. 115
++ Algumas variáveis locais usadas nesse programa - Pág. 116
++ Desenhando o quadro e tratando inputs - Pág. 117
++ Verificando cliques do Mouse - Pág. 118
++ Verificando o pressionamento do teclado - Pág. 118
++ Os dois estados do loop do jogo - Pág. 119
++ Identificando se o jogador apertou os botões certos - Pág. 119
++ Epoch Time - Pág. 121
++ Desenhando o quadro na tela - Pág. 122
++ A mesma velha função terminate() - Pág. 122
++ Reusando constantes - Pág. 123
++ Animando o botão flash - Pág. 123
++ Desenhando os botões - Pág. 126
++ Animando a troca do fundo - Pág. 126
++ A animação de game over - Pág. 127
++ Convertendo coordenadas de pixel para botões - Pág. 129
++ Explícito é melhor que Implícito - Pág. 129
+Capítulo 6 - Wormy - Pág. 131
++ Como jogar Wormy - Pág. 131
++ Código fonte do Wormy - Pág. 131
++ O grid - Pág. 137
++ O código de inicialização - Pág. 137
++ A função main() - Pág. 138
++ Uma função separada runGame() - Pág. 139
++ Tratando o Event loop - Pág. 139
++ Detecção de colisão - Pág. 140
++ Detectando colisões com a maçã - Pág. 141
++ Movendo a minhoca - Pág. 142
++ O metódo insert() da classe List - Pág. 142
++ Desenhando a tela - Pág. 143
++ Desenhando um texto "Pressione alguma tecla" na tela - Pág. 143
++ A função checkForKeyPress() - Pág. 143
++ A tela de start - Pág. 144
++ Girando o texto da tela de start - Pág. 145
++ Giros não são perfeitos - Pág. 146
++ Decidindo onde a maçã aparece - Pág. 147
++ Telas de Game Over - Pág. 147
++ Funções de desenho - Pág. 148
++ Não reuse nomes de variáveis - Pág. 151
+Capítulo 7 - Tetromino - Pág. 153
++ Como jogar Tetromino - Pág. 153
++ Algumas nomenclaturas do Tetromino - Pág. 153
++ Código fonte do Tetromino - Pág. 154
++ O usual código de configuração - Pág. 166
++ Configurando constantes de tempo para teclas que foram mantidas pressionadas - Pág. 166
++ Mais código de configuração - Pág. 166
++ configurando os templates de peças - Pág. 168
++ Dividindo uma linha de código em muitas linhas - Pág. 171
++ A função main() - Pág. 172
++ O início de um novo jogo - Pág. 173
++ O loop do jogo - Pág. 174
++ O loop de tratamento de eventos - Pág. 174
++ Pausando o jogo - Pág. 174
++ Usando variáveis de movimento para tratar entradas do usuário - Pág. 175
++ Verificando se um movimento pro lado ou um giro é válido - Pág. 175
++ Encontrando o fundo - Pág. 178
++ Movendo enquanto uma tecla é mantida pressionada - Pág. 179 
++ Deixando a peça cair naturalmente - Pág. 182
++ Desenhando tudo na tela - Pág. 182
++ makeTextObjs(), um função para criar textos - Pág. 183
++ A mesma velha função terminate() - Pág. 183
++ Aguardando por um Key Press Event com a função checkForKeyPress() - Pág. 183
++ showTextscreen(), uma função genérica para textos - Pág. 184
++ A função checkForQuit() - Pág. 185
++ A função calculateLevelAndFallFreq() - Pág. 185
 
