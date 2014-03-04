@@ -9,12 +9,12 @@ A mensagem acima deve realizar 40 chamadas para a função `pygame.draw.line()`.
 	1. import pygame, sys 
 	2. from pygame.locals import * 
 	3.
-	4.pygame.init() 
-	5.DISPLAYSURF = pygame.display.set_mode((400, 300)) 
-	6.pygame.display.set_caption('Hello World!') 
+	4. pygame.init() 
+	5. DISPLAYSURF = pygame.display.set_mode((400, 300)) 
+	6. pygame.display.set_caption('Hello World!') 
 	7.
-	8. WHITE = (255, 255, 255) 
-	9. GREEN = (0, 255, 0) 
+	8.  WHITE = (255, 255, 255) 
+	9.  GREEN = (0, 255, 0) 
 	10. BLUE = (0, 0, 128) 
 	11.
 	12. fontObj = pygame.font.Font('freesansbold.ttf', 32) 
@@ -37,8 +37,6 @@ Existem seis passos para fazer o texto aparecer na tela:
 1. Crie um objeto `pygame.font.Font`. (Como na linha 12)
 2. Crie um objeto Surface com um texto nele, chamando a função `render()` do objeto Font (linha 13)
 3. Crie um objeto Rect a partir do objeto Surface, chamando o método `get_rect()` (linha 14).Esse objeto terá a largura e a altura corretamente ajustadas pra o texto que foi renderizado, mas os atríbutos `top` e `left` serão 0.
-
-
 
 
 
