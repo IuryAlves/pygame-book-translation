@@ -2,7 +2,7 @@ Capítulo 3 jogo da Memória 35
 
 mensagem de erro e procure por erros no seu código.Você também pode copiar e colar seu código no site http://invpy.com/diff/memorypuzzle para verificar alguma diferença entre o seu código e o código do livro.
 
-Você irá provavelmente ter algumas ideias de como jogod de computador funcionam.E quando você terminar de digitar, você pode ficar com o jogo para você.
+Você irá provavelmente ter algumas ideias de como jogos de computador funcionam.E quando você terminar de digitar, você pode ficar com o jogo para você.
 
     1.  # Memory puzzle
     2.  # By Al Sweigart al@inventwithpython.com
