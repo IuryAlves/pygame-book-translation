@@ -38,7 +38,7 @@ Em muitos momentos do código do jogo da memória, nós precisamos iterar em tod
 
 Esse código fonte pode ser baixado em http://invpy.com/memorypuzzle.py .
 
-Vá em frente e digite o programa inteiro dentro do editor IDLE, e salve-o como pemorypuzzle.py, e execute-o.Se você tiver alguma mensagem de erro, olhe para o número da linha que é mencionada no erro
+Vá em frente e digite o programa inteiro dentro do editor IDLE, e salve-o como pemorypuzzle.py, e execute-o.Se você tiver alguma mensagem de erro, olhe para o número da linha que é mencionada na
 
 
 > Mande dúvidas por E-mail para o autor: al@inventwithpython.com
