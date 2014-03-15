@@ -8,23 +8,22 @@ Capítulo 3 - jogo da Memória 37
     88.             revealBoxesAnimation(mainBoard, [(boxx, boxy)])
     89.             revealedBoxes[boxx][boxy] = True # set the box as "revealed"
     90.             if firstSelection == None: # the current box was the first
-box clicked
+    box clicked
     91.                 firstSelection = (boxx, boxy)
     92.             else: # the current box was the second box clicked
     93.                 # Check if there is a match between the two icons.
     94.                 icon1shape, icon1color = getShapeAndColor(mainBoard,
-firstSelection[0], firstSelection[1])
+    firstSelection[0], firstSelection[1])
     95.                 icon2shape, icon2color = getShapeAndColor(mainBoard,
-boxx, boxy)
+    boxx, boxy)
     96.
     97.                 if icon1shape != icon2shape or icon1color !=
-icon2color:
+    icon2color:
     98.                     # Icons don't match. Re-cover up both selections.
     99.                     pygame.time.wait(1000) # 1000 milliseconds = 1 sec
     100.                    coverBoxesAnimation(mainBoard,
-[(firstSelection[0], firstSelection[1]), (boxx, boxy)])
-    101.                    revealedBoxes[firstSelection[0]][firstSelection
-[1]] = False
+    [(firstSelection[0], firstSelection[1]), (boxx, boxy)])
+    101.                    revealedBoxes[firstSelection[0]][firstSelection[1]] = False
     102.                    revealedBoxes[boxx][boxy] = False
     103.                elif hasWon(revealedBoxes): # check if all pairs found
     104.                    gameWonAnimation(mainBoard)

@@ -8,7 +8,7 @@ No jogo da memória, muitos icones são cobertos com caixas brancas.Existem dois
 
 #### Loops for aninhados
 
-Um conceito que você verá no jogo da memória( e em muitos jogos desse livro) é usar um loop for dentro de outro loop for.Esses loops são chamados de loops for aninhados.loops for aninhados são bons para verificar cada possível combinação em duas listas.Digite o seguinte código no interpretador interativo:
+Um conceito que você verá no jogo da memória( e em muitos jogos desse livro) é usar um loop `for` dentro de outro loop `for`.Esses loops são chamados de loops `for` aninhados.loops `for` aninhados são bons para verificar cada possível combinação em duas listas.Digite o seguinte código no interpretador interativo:
 
     >>> for x in [0, 1, 2, 3, 4]:
     ...     for y in ['a', 'b', 'c']:
