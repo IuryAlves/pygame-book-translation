@@ -8,7 +8,7 @@
     * [Página 4](capitulo-1/pagina-4.md)
     * [Página 5](capitulo-1/pagina-5.md)
     * [Página 6](capitulo-1/pagina-6.md)
-* [Capítulo 2 - Noções Básicas de Pygame](capitulo-1/pagina-7.md)
+* [Capítulo 2 - Noções Básicas de Pygame](capitulo-2/pagina-7.md)
     * [Página 7](capitulo-2/pagina-7.md)
     * [Página 8](capitulo-2/pagina-8.md)
     * [Página 9](capitulo-2/pagina-9.md)
